@@ -15,11 +15,13 @@
 ##  k3s: Можимо використовувати для роботи на обмених ресурсах і де окрім linux нема іншої OS
 
 Демонстрація:
-Minikube \
-![Image](./Minikube.gif)
+K3s \
+![Image](./K3s.gif)
 
+Демонстрація: 
 Kind \
 ![Image](./kind.gif)
 
-K3s \
-![Image](./k3s.gif)
+Демонстрація:
+Minikube \
+![Image](./Minikube.gif)
