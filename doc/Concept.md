@@ -16,7 +16,7 @@
 
 Демонстрація:
 Minikube \
-![Image](./minikube.gif)
+![Image](./Minikube.gif)
 
 Kind \
 ![Image](./kind.gif)
