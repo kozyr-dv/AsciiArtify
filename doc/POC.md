@@ -73,5 +73,6 @@ pVHY37xZIGxCyLK5
 ```
 ## Демонстрація
 K3D_ArgoCD \
+![Image](./ArgoCD.gif)
 
 
