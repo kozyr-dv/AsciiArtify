@@ -71,5 +71,8 @@ cFZIWTM3eFpJR3hDeUxLNQ==#
 $ k -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}"|base64 -d;echo
 pVHY37xZIGxCyLK5
 ```
-
+## Демонстрація
+Демонстрація:
+K3D_ArgoCD \
+![Image](./ArgoCD.gif)
 
